@@ -1,0 +1,15 @@
+
+// NamesViewController
+"screen.names.navbar.title"="Names";
+"screen.names.table_view.action.delete_name"="Delete";
+
+// NameViewController
+"screen.name.label.name"="The fantastic name";
+"screen.name.label.name_history"="The history for this fantastic name";
+
+// AddNameViewController
+"screen.add_name.navbar.title"="Add New Name";
+"screen.add_name.label.new_name"="The new name";
+"screen.add_name.label.new_history_name"="The history name for this new name";
+"screen.add_name.label.error.new_name"="invalid name";
+"screen.add_name.label.error.new_history_name"="invalid history";

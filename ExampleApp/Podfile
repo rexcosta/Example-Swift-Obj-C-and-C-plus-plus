@@ -1,0 +1,9 @@
+
+platform :ios, '11.0'
+
+target 'ExampleApp' do
+	use_frameworks!
+
+    pod 'ExampleFramework', :path => '../ExampleFramework/ExampleFramework.podspec'
+
+end

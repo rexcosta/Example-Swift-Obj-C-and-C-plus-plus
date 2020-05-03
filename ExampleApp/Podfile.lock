@@ -1,0 +1,16 @@
+PODS:
+  - ExampleFramework (0.0.1)
+
+DEPENDENCIES:
+  - ExampleFramework (from `../ExampleFramework/ExampleFramework.podspec`)
+
+EXTERNAL SOURCES:
+  ExampleFramework:
+    :path: "../ExampleFramework/ExampleFramework.podspec"
+
+SPEC CHECKSUMS:
+  ExampleFramework: 8fec0fe5dc21e4737b45b33b3746b8e13895d248
+
+PODFILE CHECKSUM: 1f5762d4ef001b438314c922fb12836d13f3b05d
+
+COCOAPODS: 1.8.4
